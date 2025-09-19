@@ -1,6 +1,6 @@
-# 国内如何使用ChatGPT最新的 GPT5？最容易懂的 ChatGPT 介绍与教学指南【2025年8月】
+# 国内如何使用ChatGPT最新的 GPT5？最容易懂的 ChatGPT 介绍与教学指南【2025年9月】
 
-> **更新时间： 2025/08/08**                          
+> **更新时间： 2025/09/20**                          
 
 **GPT-5**是OpenAI于2025年8月8日发布的最新、最先进的旗舰人工智能模型，标志着AI能力的一次重大飞跃。**GPT-5**并非单一模型，而是一个“统一”的智能系统，它巧妙地融合了此前o系列模型的深度推理能力与GPT系列模型的快速响应优势。该系统通过一个实时路由器，能根据用户问题的复杂性自动选择最合适的处理模式，旨在提供更智能、更快速、更可靠且更有用的交互体验
 
@@ -8,7 +8,7 @@
 本文提供全面的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，推荐国内镜像网站，支持**GPT-5**和GPT-o系列模型，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://xsimplechat.com)**，提升工作效率。
 
 
-ChatGPT 中文版：[chat.lanjingai.org](https://chat.lanjingai.org)   
+ChatGPT 中文版：[ai.lanjingai.org](https://ai.lanjingai.org)   
 ChatGPT 镜像网站：[xsimplechat.com](https://xsimplechat.com)
 
 ---
@@ -43,8 +43,8 @@ ChatGPT 镜像网站：[xsimplechat.com](https://xsimplechat.com)
 
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
-| [xsimplechat.com](https://xsimplechat.com)   | GPT-5、GPT-4, GPT-o3，deepseek-r1，GPT-o3 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-5、GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
-| [chat.lanjingai.org](https://chat.lanjingai.org)         | GPT-4, GPT-o1, Claude, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
+| [xsimplechat.com](https://xsimplechat.com)   | GPT-5、GPT-4, GPT-o3，deepseek-r1，Gemini Pro、Claude Sonnet、GPT-o3 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-5、GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [ai.lanjingai.org](https://ai.lanjingai.org)         | GPT-4, GPT-o1, emini Pro、Claude Sonnet, deepseek-r1,GPT-o3  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
 | [chat.lify.vip](https://www.yixiaai.com) | GPT-4, GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [cgn.lify.vip](https://cgn.lify.vip)   | GPT-3.5        | 有              | 国内邮箱支持        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
@@ -93,7 +93,7 @@ ChatGPT 中文版专为中文用户优化，提供更流畅、更精准的中文
 2. **注册或直接使用**：
    - 邮箱注册：填写邮箱和密码，完成账号创建。
    - 免注册：直接进入聊天界面，输入问题即可获得回答。
-3. **选择 GPT 模型**：根据需求选择 GPT-4 或 GPT-3.5。
+3. **选择 GPT 模型**：根据需求选择 GPT-5 或 GPT-4。
 4. **开始对话**：畅享中文聊天体验，支持翻译、写作、办公等功能。
 
 ---
